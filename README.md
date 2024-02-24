@@ -50,3 +50,10 @@ RTA/: El proceso de diseñar, codificar, probar y depurar el código fuente de p
 Diccionarios Python
 1.1.10. En el lenguaje de programación Python, ¿cuáles de las siguientes sentencias crean un diccionario? (seleccione todas las opciones que considere correctas):
 RTA/: d = {“Fabio”:40, “Felipe”:45, “Claudia”: 100} y d = (40: “juan”, 50: [‘a’, ‘b’, ‘c’]) porque son las únicas que tienen la estructura { key : value }, que reconoce Python para la declaración de diccionarios.
+
+1.2. ALGEBRA LINEAL
+
+1.2.1. Multiplicación 2
+![image](https://github.com/danielamejiacastro/MLDS--Course/assets/160078564/603d6e47-16e8-49e5-9375-bf1bb55e9806)
+Tomando como referencia la siguiente imagen. Enunciado ¿Cuáles de las siguientes expresiones está bien definidas? Seleccione todas las opciones que considere correctas.
+
